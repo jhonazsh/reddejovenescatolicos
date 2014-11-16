@@ -1,0 +1,20 @@
+{
+  "name": "Red de Jovenes Católicos",
+  "version": "0.0.0",
+  "description": "Página Red de Jovenes Católicos",
+  "main": "index.html",
+  "authors": [
+    "jhon medina"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}

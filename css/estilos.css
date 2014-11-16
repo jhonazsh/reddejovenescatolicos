@@ -1,0 +1,65 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding: 0;
+  margin: 0;
+}
+.font-size-1-3 {
+  font-size: 1.3em;
+}
+.font-size-1-2 {
+  font-size: 1.2em;
+}
+.font-condensed {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#header,
+#footer {
+  padding: 1em 0;
+}
+#principal {
+  padding: 2em 0;
+}
+.margen-top-uno {
+  margin-top: 1em;
+}
+.margen-bottom-uno {
+  margin-bottom: 1em;
+}
+.margen-top-dos {
+  margin-top: 2em;
+}
+.relleno-bottom-medio {
+  padding-bottom: 0.5em;
+}
+.borde-bottom {
+  border-bottom: 1px solid #e8e8e8;
+}
+.fb-comments {
+  width: 100%;
+}
+#header,
+#footer {
+  background-color: #3498db;
+}
+.color-texto-blanco {
+  color: #fff;
+}
+.color-texto-asbestos {
+  color: #7f8c8d;
+}
+.navbar-default {
+  margin-bottom: 0;
+  background-color: #fff;
+  border: 0;
+}
+.btn {
+  border-radius: 2px;
+}
